@@ -9,7 +9,7 @@ const IndexPage = () => {
       <p>Lorem ipsum</p>
       <StaticImage
         alt="randomized unsplash image!"
-        src="https://source.unsplash.com/random/800x600"
+        src="../images/download.jpeg"
       />
       </Layout>
     </main>
