@@ -46,7 +46,7 @@ const IndexPage = ({
       <section className={section}>
       <h2 className={subtitle}>Featured Artists</h2>
       <p>
-        // description
+        description
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
         sed doo eiusmod tempor incididunt ut labore et dolore magna aliqua. 
       </p>

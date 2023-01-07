@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
           title
         }
       }
-      wpPage(slug: { eq: "about-us" }) {
+      wpPage(slug: { eq: "contact-us" }) {
         contactUsFields {
             address
             city
